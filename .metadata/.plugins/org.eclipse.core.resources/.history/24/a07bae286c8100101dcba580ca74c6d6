@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+package com.java.Javabasics;
+
+/**
+ * @author M.prabandha
+ *
+ */
+public class Animal {
+	void eat() {
+		System.out.println("eating..");
+	}
+	void drinkWater() {
+		System.out.println("drinking water");
+		
+	}
+
+}
